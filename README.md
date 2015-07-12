@@ -1,5 +1,6 @@
 ![DownloadMii](https://raw.githubusercontent.com/DownloadMii/DownloadMii-3DS/master/assets/logo.png "Logo")
-[![Build Status](http://build.filfatstudios.com:8080/buildStatus/icon?job=DownloadMii (3DS))](http://build.filfatstudios.com:8080/job/DownloadMii%20(3DS)/) [![Donation Status](https://img.shields.io/gratipay/filfat.svg)](https://gratipay.com/filfat/)
+
+THIS IS THE IN DEVELOPMENT UNIVIERSAL APP BRANCH!
 
 =========== 
 DownloadMii is an online marketplace for homebrew applications & games.
