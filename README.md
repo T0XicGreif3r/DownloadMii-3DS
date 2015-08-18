@@ -1,5 +1,5 @@
 ![DownloadMii](https://raw.githubusercontent.com/DownloadMii/DownloadMii-3DS/master/assets/logo.png "Logo")
-### Development is halted untill futher notice!
+### Development is halted till further notice!
 (expected to begin again late 2015 or in the beggining of 2016)
 
 =========== 
