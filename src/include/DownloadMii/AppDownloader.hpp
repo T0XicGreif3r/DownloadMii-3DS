@@ -5,7 +5,7 @@
 //   | |__| | (_) \ V  V /| | | | | (_) | (_| | (_| | |  | | | |
 //   |_____/ \___/ \_/\_/ |_| |_|_|\___/ \__,_|\__,_|_|  |_|_|_|
 //                                                              
-//   ©2014-2015 Filiph Sandström & Contributors
+//   Â©2014-2015 Filiph SandstrÃ¶m & Contributors
 //   Please see the LICENSE for more info!
 //
 //	File name: AppDownloader.hpp
@@ -26,10 +26,9 @@ namespace DownloadMii {
 		std::string name;
 		std::string publisher;
 		std::string downloads;
-		//Only used when data is cached or if the application is installed
+		float avgRating;
 		std::string localVersion = "none";
 		bool installed = false;
-		float avgRating;
 
 		/* Data loaded by LoadAppInfo */
 		std::string description;
