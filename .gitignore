@@ -16,8 +16,8 @@
 *.mod
 
 # Dirs
-build/*
-debug/*
+src/build/*
+src/debug/*
 obj/*
 
 # Compiled Static libraries
@@ -37,4 +37,9 @@ obj/*
 3dmoo.log
 *.sdf
 *.opensdf
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
 Thumbs.db
