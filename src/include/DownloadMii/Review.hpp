@@ -5,7 +5,7 @@
 //   | |__| | (_) \ V  V /| | | | | (_) | (_| | (_| | |  | | | |
 //   |_____/ \___/ \_/\_/ |_| |_|_|\___/ \__,_|\__,_|_|  |_|_|_|
 //                                                              
-//   ©2014-2015 Filiph Sandström & Contributors
+//   ©2014-2015 filfat Studios AB
 //   Please see the LICENSE for more info!
 //
 //	File name: Review.hpp
